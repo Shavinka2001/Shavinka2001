@@ -1,40 +1,42 @@
 <h1 align="center">Hi 👋, I'm Kavindu Shavinka</h1>
-<h3 align="center">Aspiring Full-Stack Developer | Undergraduate at SLIIT</h3>
+<h3 align="center">💻 Aspiring Full-Stack Developer | 🎓 Undergraduate at SLIIT</h3>
 
 <p align="center">
-  I'm Kavindu Shavinka undergraduate student pursuing a BSc (Hons) in Information Technology at <strong>SLIIT</strong>.  
-  I have a passion for coding, problem-solving, and creating impactful digital experiences. I'm currently focusing on modern web technologies like React.js and Express.js.
+  I'm an enthusiastic tech lover currently pursuing a BSc (Hons) in Information Technology at <strong>SLIIT</strong>.
+  Passionate about building modern, efficient, and user-friendly web and mobile applications.
+  I'm currently diving deep into the MERN stack and cloud technologies.
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shavinka2001&label=Profile%20Views&color=0e75b6&style=flat" alt="shavinka2001" />
+  <img src="https://komarev.com/ghpvc/?username=shavinka2001&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
 ---
 
-- 🌱 I’m currently learning **React.js, Express.js**
-- 💻 Passionate about **Web & Mobile Development**
-- 👨‍💻 Actively working on MERN stack projects
-- 📫 How to reach me: **kavindushavinka022@gmail.com**
+### 🚀 Current Focus
+- 🌱 Learning: **React.js**, **Express.js**, **Cloud Deployment**
+- 🛠️ Tech Stack: **MERN (MongoDB, Express.js, React.js, Node.js)**
+- 📱 Also exploring: **Android/Kotlin** and **UI/UX with Figma**
+- 📫 Reach me at: **kavindushavinka022@gmail.com**
 
 ---
 
-<h3 align="left">🌐 Connect with me</h3>
+### 🌐 Connect With Me
 <p align="left">
   <a href="https://www.linkedin.com/in/kavindushavinka" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"/>
   </a>
   <a href="https://www.facebook.com/kavindushavinka" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40"/>
   </a>
   <a href="https://www.instagram.com/shavinka_18" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40"/>
   </a>
 </p>
 
 ---
 
-<h3 align="left">🛠️ Languages and Tools</h3>
+### 🧰 Languages & Tools
 <p align="left">
   <a href="https://developer.android.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android" width="40" height="40"/></a>
   <a href="https://azure.microsoft.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" width="40" height="40"/></a>
@@ -55,14 +57,13 @@
 
 ---
 
-<h3>📊 GitHub Stats</h3>
-
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shavinka2001&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+### 📊 GitHub Analytics
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shavinka2001&show_icons=true&theme=default&locale=en" alt="GitHub Stats" />
 </p>
 
-<p>&nbsp;</p>
-
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=shavinka2001&show_icons=true&locale=en" alt="GitHub Stats" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shavinka2001&layout=compact&theme=default" alt="Top Languages" />
 </p>
+
+---
