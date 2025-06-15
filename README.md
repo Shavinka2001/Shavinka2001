@@ -2,7 +2,7 @@
 <h3 align="center">Aspiring Full-Stack Developer | Undergraduate at SLIIT</h3>
 
 <p align="center">
-  I'm an enthusiastic undergraduate student pursuing a BSc (Hons) in Information Technology at <strong>SLIIT</strong>.  
+  I'm Kavindu Shavinka undergraduate student pursuing a BSc (Hons) in Information Technology at <strong>SLIIT</strong>.  
   I have a passion for coding, problem-solving, and creating impactful digital experiences. I'm currently focusing on modern web technologies like React.js and Express.js.
 </p>
 
@@ -15,7 +15,7 @@
 - 🌱 I’m currently learning **React.js, Express.js**
 - 💻 Passionate about **Web & Mobile Development**
 - 👨‍💻 Actively working on MERN stack projects
-- 📫 How to reach me: **shavinkaygk@gmail.com**
+- 📫 How to reach me: **kavindushavinka022@gmail.com**
 
 ---
 
